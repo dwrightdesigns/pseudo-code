@@ -1,0 +1,57 @@
+You just grabbed all the mail from your mailbox.
+You want to go through it all, and decide what to do with each piece of mail.
+Write the pseudo code for your process of going through the mail.
+
+
+types of mail:
+    - junkmail
+    - bills
+    - personal mail
+    - packages
+    - magazines
+
+for mail
+    if mail is for parents
+        set on table for them to sort
+    else if mail is personal mail and is for children
+        call children to room to open mail
+    else sort through mail
+
+for every piece of junkmail
+    if junkmail contains coupons
+        clip coupons
+    else
+        throw it in trash
+
+for every bill
+    if there is money in the bank
+        place on desk to pay
+    else
+        put in desk drawer to forget about
+
+for personal mail
+    if personal mail is for entire family
+        open personal mail and place on dining table for family to read
+    else
+        place on desk to read
+
+for every package
+    if package is to heavy
+        have husband come carry it inside for me 
+    else if package is for husband
+        take to husband
+    else
+        place on dining table to open
+
+for every magazine
+    if magazine was ordered
+        place on desk to read
+    if magazine was not ordered
+        offer to family
+    else
+        throw in recycle bin
+
+if mail is open and is no longer needed
+    place in recycle bin
+else
+    do nothing
